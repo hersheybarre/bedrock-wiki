@@ -31,7 +31,7 @@ Please note that this will remove all death-effects, including sound, particles,
 
 Similar to teleporting the entity is triggering an entity transform on death. Query is_alive and transform the entity to another entity if is_alive == false. The new entity can have the despawn component with no filter, causing the entity to immediately despawn on creation.
 
-Plesea note that this will remove all death-effects, including sound, particles, loot, and the visual death of the entity.
+Please note that this will remove all death-effects, including sound, particles, loot, and the visual death of the entity.
 
 # Cancelling the Animation
 
